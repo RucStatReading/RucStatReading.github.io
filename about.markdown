@@ -1,18 +1,22 @@
 ---
 layout: page
-title: About
+title: 关于我们
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## 中国人民大学统计学院
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+![](http://stat.ruc.edu.cn/images/logo_01.jpg)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+ 中国人民大学统计学科始建于1950年，1952年成立统计系，2003年成立统计学院。历经七十年的建设和发展，已成为国内最顶尖的统计学科之一，在教育部学科评估中位列全国第一。
+
+我们有文理交融、双翼齐飞的学科布局，有若干相互支撑的重要研究平台，我们强调扎实的统计理论方法和与其他学科交叉发展的强大统计应用。我们有踏实、包容、创新和进取的作风和精神，这使我们的学科逐步从单一的社会经济统计向社会经济统计与概率数理统计融合发展，从传统的社会经济统计和数理统计向风险管理与保险精算应用学科拓展，并全新建设了生物医学统计和数据科学。当前，学院的学科涵盖数理统计、社会经济统计、生物卫生统计、风险管理与精算、数据科学与大数据技术等多个子学科，是全国拥有子学科最全的统计学院，也是最早和唯一拥有理学、经济学、医学三大学科门类的统计学院。
+
+在未来的发展中，学院以培养具有深厚统计功底并具备全球视野和社会责任的高端专业人才为使命，不断创新发展统计人才培养教育模式。在科学研究上，努力探索统计理论方法和统计应用研究的新进展，继续推动统计学与不同学科领域的交叉发展，努力在统计方法和应用上做出具有开创性的重要成果。在当前国家“双一流”学科建设目标下，我们将努力保持国内一流水平，并在不久的将来努力跻身世界一流的行列。 
 
 
-[jekyll-organization]: https://github.com/jekyll
+![](http://stat.ruc.edu.cn/images/rwm.jpg)
+
+## 主文献阅读课程
+
+介绍200字左右

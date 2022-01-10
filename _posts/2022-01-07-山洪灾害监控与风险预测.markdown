@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "山洪灾害监控与风险预测"
+date:   2022-01-07 17:29:42 +0800
+categories: paper
+---
+
+{% pdf "https://github.com/RucStatReading/RucStatReading.github.io/raw/main/pdf/主文献阅读文献调研-山洪灾害监控与风险预测-2021103740-苏锦华.pdf" no_link %}
+
+
+{% pdf "https://github.com/RucStatReading/RucStatReading.github.io/raw/main/pdf/中国石油销售物...2v1.5-修改.pptx" no_link %}
