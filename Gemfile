@@ -19,7 +19,10 @@ gem "github-pages", group: :jekyll_plugins
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
+  # source "https://rubygems.pkg.github.com/mihajlonesic" do
   gem "jekyll-pdf-embed"
+    #, "1.1.1"
+  # end
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
