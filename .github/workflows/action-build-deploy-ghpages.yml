@@ -1,0 +1,6 @@
+steps:
+  - uses: actions/checkout@v2
+  - uses: EdricChan03/action-build-deploy-ghpages@v2.5.0
+    with:
+      github_token: ${{ secrets.GITHUB_TOKEN }}
+      # gh_pages_token: ${{ secrets.GH_PAGES_TOKEN }} No longer needed - see https://github.community/t5/GitHub-Actions/Github-action-not-triggering-gh-pages-upon-push/m-p/46519/highlight/true#M6551 for more info
