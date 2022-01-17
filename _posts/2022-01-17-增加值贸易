@@ -7,4 +7,4 @@ categories: paper
 
 {% pdf "/pdf/主文献阅读文献调研-山洪灾害监控与风险预测-2021103740-苏锦华.pdf" %}
 
-{% pdf "https://github.com/RucStatReading/RucStatReading.github.io/raw/main/ppt/%E5%A2%9E%E5%8A%A0%E5%80%BC%E8%B4%B8%E6%98%93.pptx" %}
+{% pdf "https://github.com/RucStatReading/RucStatReading.github.io/raw/main/ppt/%E5%A2%9E%E5%8A%A0%E5%80%BC%E8%B4%B8%E6%98%93.pptx" no_link %}
