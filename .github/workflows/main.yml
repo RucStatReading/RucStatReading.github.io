@@ -32,8 +32,8 @@ jobs:
         run: |
           pip install -r requirements.txt
       - name: execute py script # run the run.py to get the latest data
-        run: |
-          cd src & python generate_dynamic_post_with_yml.py
+        run: | # fix the error with & and && , look at https://www.jianshu.com/p/25b0d6c9dc9f
+          cd src && python generate_dynamic_post_with_yml.py
       - name: build deploy ghpage
         uses: EdricChan03/action-build-deploy-ghpages@v2.5.0
         with:

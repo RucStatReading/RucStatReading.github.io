@@ -1,3 +1,4 @@
-## 
+## 人大统计主文献阅读资源库
 
-https://github.com/MihajloNesic/jekyll-pdf-embed/issues/4
+由课代表运行维护
+遇到开发问题请联系JinhuaSu
