@@ -15,8 +15,8 @@ pieces:
     title: 山洪灾害监控与风险预测
     survey_pdf: pdf/2021_2022_Autumn/主文献阅读文献调研-山洪灾害监控与风险预测-2021103740-苏锦华.pdf
     presentation: ppt/2021_2022_Autumn/巨灾保险.pptx
-    baiducloudlink: None
-    baiducloudtoken: None
+    baiducloudlink: https://pan.baidu.com/s/1NwBeApooZnQ4rwvLLStreA
+    baiducloudtoken: 1bse
     date: 2022-01-07
 
   - name: 徐雯雯
@@ -44,4 +44,247 @@ pieces:
     presentation: ppt/2021_2022_Autumn/毕博洋+经济复杂性综述.pptx
     baiducloudlink: https://pan.baidu.com/s/1JMrIjGokOwHvpSCzPn0GSg
     baiducloudtoken: 5lpt
+    date: 2022-01-22
+
+  - name: 贺钰淇
+    instructor: 范新妍
+    title: 凸聚类
+    survey_pdf: None
+    presentation: ppt/2021_2022_Autumn/凸聚类.pdf
+    baiducloudlink: https://pan.baidu.com/s/1GzY-tMKKGRYva8koewL6hA 
+    baiducloudtoken: zofy
+    date: 2022-01-22
+
+  - name: 李昊峰
+    instructor: 范新妍
+    title: 谱聚类的知识转移
+    survey_pdf: pdf/2021_2022_Autumn/李昊峰com.pdf
+    presentation: ppt/2021_2022_Autumn/李昊峰pre.pdf
+    baiducloudlink: https://pan.baidu.com/s/1vItaWTCwizSL5Xq-x4KNzQ 
+    baiducloudtoken: q5g4
+    date: 2022-01-22
+
+  - name: 李云龙
+    instructor: 关国卉
+    title: 长寿风险下家庭资产配置和风险管理
+    survey_pdf: None
+    presentation: ppt/2021_2022_Autumn/李云龙pre.pdf
+    baiducloudlink: https://pan.baidu.com/s/12YHnI9chb8PfO1TutDbV3w 
+    baiducloudtoken: 7rsz
+    date: 2022-01-22
+
+  - name: 罗伊琳
+    instructor: 张景肖
+    title: 网络社区检测
+    survey_pdf: None
+    presentation: ppt/2021_2022_Autumn/主文献ppt-罗伊琳-2020103670.pdf
+    baiducloudlink: https://pan.baidu.com/s/1HAVj_WN8ysSxSNUwwiNFWw 
+    baiducloudtoken: rb96
+    date: 2022-01-22
+
+  - name: 任小楠
+    instructor: 范新妍
+    title: 成对融合方法
+    survey_pdf: None
+    presentation: ppt/2021_2022_Autumn/RXN_pre.pdf
+    baiducloudlink: https://pan.baidu.com/s/1wMp8NVhtdlJRNGWekyr5iw 
+    baiducloudtoken: ou7u
+    date: 2022-01-22
+
+  - name: 王东雪
+    instructor: 张景肖
+    title: 半监督回归
+    survey_pdf: None
+    presentation: ppt/2021_2022_Autumn/WDX_pre.pptx
+    baiducloudlink: https://pan.baidu.com/s/1TqKNBDZRqWKqo8h0Y7SPYw 
+    baiducloudtoken: d018
+    date: 2022-01-22
+
+  - name: 王祎帆
+    instructor: 关国卉
+    title: 风险溢出
+    survey_pdf: None
+    presentation: ppt/2021_2022_Autumn/风险溢出ppt.pdf
+    baiducloudlink: https://pan.baidu.com/s/1QC-S3xyEm698crJV_QERtg  
+    baiducloudtoken: a9pc
+    date: 2022-01-22
+
+  - name: 熊照
+    instructor: 张景肖
+    title: 稀疏主成分分析
+    survey_pdf: None
+    presentation: ppt/2021_2022_Autumn/XZ_pre.pdf
+    baiducloudlink: https://pan.baidu.com/s/1vpkEUh6QC30yC1m8JRYLUw  
+    baiducloudtoken: l5zv
+    date: 2022-01-22
+
+  - name: 徐少东
+    instructor: 王睿
+    title: 共形推断
+    survey_pdf: None
+    presentation: ppt/2021_2022_Autumn/cicl.pdf
+    baiducloudlink: https://pan.baidu.com/s/1tTZwwu4Z71NLhljnKUNjiw   
+    baiducloudtoken: 28yx
+    date: 2022-01-22
+
+  - name: 张浩
+    instructor: 张景肖
+    title: 基于协变量平衡的干预效应
+    survey_pdf: None
+    presentation: ppt/2021_2022_Autumn/ZH_pre.pdf
+    baiducloudlink: https://pan.baidu.com/s/14RtuqbAttHJCfinUfTMAuQ   
+    baiducloudtoken: 1z2f
+    date: 2022-01-22
+
+  - name: 张嘉琪
+    instructor: 范新妍
+    title: 稳健社区发现
+    survey_pdf: None
+    presentation: ppt/2021_2022_Autumn/ZJQ_pre.pdf
+    baiducloudlink: https://pan.baidu.com/s/1akoaG_-1N6LLB3Z7Sqbzrg 
+    baiducloudtoken: gnqn
+    date: 2022-01-22
+
+  - name: 张珊
+    instructor: 甄峰
+    title: 碳排放与股票交易市场
+    survey_pdf: None
+    presentation: ppt/2021_2022_Autumn/ZS_pre.pptx
+    baiducloudlink: https://pan.baidu.com/s/1mSCqrpcG1g1evfiorFXGNg 
+    baiducloudtoken: q0s6
+    date: 2022-01-22
+
+  - name: 张宇靖
+    instructor: 张景肖
+    title: 测量误差
+    survey_pdf: None
+    presentation: ppt/2021_2022_Autumn/ZYJ_pre.pdf
+    baiducloudlink: https://pan.baidu.com/s/16-5U27D2DkKg2NoPRQcBnQ 
+    baiducloudtoken: g14b
+    date: 2022-01-22
+
+  - name: 张煜昭
+    instructor: 范新妍
+    title: 社群发现
+    survey_pdf: None
+    presentation: ppt/2021_2022_Autumn/ZYZ_pre.pdf
+    baiducloudlink: https://pan.baidu.com/s/1Zug6bAQui7GzZlHVlQ47ww 
+    baiducloudtoken: 543v
+    date: 2022-01-22
+
+  - name: 周睿
+    instructor: 张景肖
+    title: 贝叶斯稀疏主题模型
+    survey_pdf: None
+    presentation: ppt/2021_2022_Autumn/贝叶斯稀疏主题编码.pdf
+    baiducloudlink: https://pan.baidu.com/s/1KA17IqsNHiwma6EG5ofFPA 
+    baiducloudtoken: s9t6
+    date: 2022-01-22
+
+  - name: 周照亚
+    instructor: 甄峰
+    title: 拓扑持久性与简化
+    survey_pdf: None
+    presentation: ppt/2021_2022_Autumn/ZZY_pre.pdf
+    baiducloudlink: https://pan.baidu.com/s/1WMJlfe5t0ETOM2zooVBsUA  
+    baiducloudtoken: 3sfy
+    date: 2022-01-22
+
+  - name: 杜治仙
+    instructor: 甄峰
+    title: 休闲消费
+    survey_pdf: None
+    presentation: ppt/2021_2022_Autumn/DZX_pre.pptx
+    baiducloudlink: https://pan.baidu.com/s/111wbakWNOaAaQhLtSUpS4Q 
+    baiducloudtoken: c6p1
+    date: 2022-01-22
+
+  - name: 黄实磊
+    instructor: 范新妍
+    title: 谱聚类
+    survey_pdf: None
+    presentation: ppt/2021_2022_Autumn/HSL_pre.pptx
+    baiducloudlink: https://pan.baidu.com/s/1WQ03BIlLm_sLnSOHfnh2Hg 
+    baiducloudtoken: fiqo
+    date: 2022-01-22
+
+  - name: 陈宇飞
+    instructor: 甄峰
+    title: BoostingClassification
+    survey_pdf: pdf/2021_2022_Autumn/CYF_com.pdf
+    presentation: ppt/2021_2022_Autumn/CYF_pre.pdf
+    baiducloudlink: https://pan.baidu.com/s/1IAGYs9fpDeEMG4MJFhRjYw 
+    baiducloudtoken: qqjs
+    date: 2022-01-22
+
+  - name: 陈岳辛
+    instructor: 王睿
+    title: 共形推断
+    survey_pdf: None
+    presentation: ppt/2021_2022_Autumn/CYX_pre.pptx
+    baiducloudlink: https://pan.baidu.com/s/1K3fN3khfBIbzuHbDwwoesA 
+    baiducloudtoken: c8l2
+    date: 2022-01-22
+
+  - name: 孙宇豪
+    instructor: 张景肖
+    title: 基于层次贝叶斯的人口估计模型
+    survey_pdf: None
+    presentation: ppt/2021_2022_Autumn/SYH_pre.pptx
+    baiducloudlink: https://pan.baidu.com/s/1G4QD23HcMVMCO44n-y-blg 
+    baiducloudtoken: 35k0
+    date: 2022-01-22
+
+  - name: 汤惠云
+    instructor: 王睿
+    title: 协变量漂移下的共形推断
+    survey_pdf: None
+    presentation: ppt/2021_2022_Autumn/THY_pre.pdf
+    baiducloudlink: https://pan.baidu.com/s/1vKU7YfNqggutMemjb34JDA 
+    baiducloudtoken: 1t7t
+    date: 2022-01-22
+
+  - name: 王莹
+    instructor: 甄峰
+    title: 金融控股公司及其稳定性
+    survey_pdf: None
+    presentation: ppt/2021_2022_Autumn/WY_pre.pptx
+    baiducloudlink: https://pan.baidu.com/s/1NeoJ4FRdyP5zOyBc95BO6A 
+    baiducloudtoken: 1y6v
+    date: 2022-01-22
+
+  - name: 吴成诚
+    instructor: 关国卉
+    title: 天气衍生品
+    survey_pdf: None
+    presentation: ppt/2021_2022_Autumn/天气衍生品.pptx
+    baiducloudlink: https://pan.baidu.com/s/1tO7RCELO390vYNB4IueqvA 
+    baiducloudtoken: dosf
+    date: 2022-01-22
+
+  - name: 徐少东
+    instructor: 王睿
+    title: 有效和自适应覆盖的分类
+    survey_pdf: None
+    presentation: ppt/2021_2022_Autumn/cicl.pdf
+    baiducloudlink: https://pan.baidu.com/s/1WlWrPpzJvuazKued8SHGcw 
+    baiducloudtoken: lzzg
+    date: 2022-01-22
+
+  - name: 耿子汶
+    instructor: 范新妍
+    title: 基于期望回归的高条件尾部风险估计
+    survey_pdf: None
+    presentation: ppt/2021_2022_Autumn/GZW_pre.pdf
+    baiducloudlink: https://pan.baidu.com/s/1-tlE1-bNHIuQUWKfXBF4aA 
+    baiducloudtoken: ofv8
+    date: 2022-01-22
+
+  - name: 张晏杭
+    instructor: 范新妍
+    title: 凸聚类
+    survey_pdf: None
+    presentation: ppt/2021_2022_Autumn/ZYH_pre.pdf
+    baiducloudlink: https://pan.baidu.com/s/1JVKrpxhLG6ii4e2dZ7iD8A 
+    baiducloudtoken: 96g8
     date: 2022-01-22
