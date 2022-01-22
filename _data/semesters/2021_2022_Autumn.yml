@@ -1,0 +1,47 @@
+semester_name: 2021-2022年秋季学期
+instructors: 张景肖,甄峰,范新妍,关国卉,王睿
+pieces:
+  - name: 杨彦欣
+    instructor: 甄峰
+    title: 全球创新指数
+    survey_pdf: pdf/2021_2022_Autumn/主文献作业_杨彦欣.pdf
+    presentation: pdf/2021_2022_Autumn/杨彦欣_主文献.pdf
+    baiducloudlink: https://pan.baidu.com/s/1PjHrB7YyV3MCdiEIeqy78w
+    baiducloudtoken: 3p6b
+    date: 2022-01-19
+
+  - name: 苏锦华
+    instructor: 关国卉
+    title: 山洪灾害监控与风险预测
+    survey_pdf: pdf/2021_2022_Autumn/主文献阅读文献调研-山洪灾害监控与风险预测-2021103740-苏锦华.pdf
+    presentation: //github.com/SmartDataLab/DR-Share/raw/main/index.pptx
+    baiducloudlink: None
+    baiducloudtoken: None
+    date: 2022-01-07
+
+  - name: 徐雯雯
+    instructor: 张景肖
+    title: 近似同伦计算全共形预测集
+    survey_pdf: pdf/2021_2022_Autumn/Computing Full Conformal Prediction Set with Approximate Homotopy.pdf
+    presentation: ppt/2021_2022_Autumn/Computing Full Conformal Prediction Set with Approximate Homotopy.pptx
+    baiducloudlink: https://pan.baidu.com/s/1yVgLKF4qTet0TgN5YISnAQ
+    baiducloudtoken: 16gc
+    date: 2022-01-22
+  
+  - name: 苏雅
+    instructor: 甄峰
+    title: 增加值贸易
+    survey_pdf: None
+    presentation: ppt/2021_2022_Autumn/增加值贸易.pptx
+    baiducloudlink: https://pan.baidu.com/s/1FNj0NOXXDXcfUWxSFS3INQ
+    baiducloudtoken: wa7h
+    date: 2022-01-22
+  
+  - name: 毕博洋
+    instructor: 张景肖
+    title: 经济复杂性
+    survey_pdf: pdf/2021_2022_Autumn/A New Metrics for Countries’ Fitness and.pdf
+    presentation: ppt/2021_2022_Autumn/毕博洋+经济复杂性综述.pptx
+    baiducloudlink: https://pan.baidu.com/s/1JMrIjGokOwHvpSCzPn0GSg
+    baiducloudtoken: 5lpt
+    date: 2022-01-22
