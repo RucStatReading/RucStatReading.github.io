@@ -19,14 +19,14 @@ for yaml_file_name in yaml_list:
     # generate the md in the semester folder
     md_name = yaml_file_name.replace("yml", "md")
     template_str = f"""---
-    layout: page
-    ---
+layout: page
+---
 
-    **{yaml_dict["semester_name"]}**
+**{yaml_dict["semester_name"]}**
 
-    | 主题与浏览页面 | 论文链接 | 学生姓名 | PPT链接 | 课程所属教师 | 其他材料 |
-    | :-: | :-: | :-: | :-: | :-: | :-: |
-    """
+| 主题与浏览页面 | 论文链接 | 学生姓名 | PPT链接 | 课程所属教师 | 其他材料 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+"""
     raw_base_path = (
         "https://github.com/RucStatReading/RucStatReading.github.io/raw/main/"
     )
@@ -56,15 +56,21 @@ for yaml_file_name in yaml_list:
         one_line_str = f"| [{title}]({page_link}) | {survey_pdf_link} | {name} | {presentation_link} | {instructor} | {bdshare} |\n"
         template_str += one_line_str
         single_template_str = f"""---
-    layout: post
-    title:  "{piece["title"]}"
-    date:   {piece["date"]} 17:29:42 +0800
-    categories: paper
-    ---
+layout: post
+title:  "{piece["title"]}"
+date:   {piece["date"]}
+categories: paper
+---
 
-    """
-        single_template_str += '{% pdf "/' + piece["survey_pdf"] + '" %}\n\n'
-        if piece["presentation"].split(".")[-1] == "pdf":
+"""
+        single_template_str += (
+            '{% pdf "/' + piece["survey_pdf"] + '" %}\n\n'
+            if piece["survey_pdf"] != "None"
+            else "暂无综述文章\n\n"
+        )
+        if piece["presentation"] == "None":
+            single_template_str += "暂无展示ppt\n\n"
+        elif piece["presentation"].split(".")[-1] == "pdf":
             single_template_str += '{% pdf "/' + piece["presentation"] + '" %}\n\n'
         else:
             single_template_str += (
