@@ -24,7 +24,18 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
-      - uses: EdricChan03/action-build-deploy-ghpages@v2.5.0
+      - name: setup python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8 #install the python needed
+      - name: install python package
+        run: |
+          pip install -r requirements.txt
+      - name: execute py script # run the run.py to get the latest data
+        run: |
+          cd src & python generate_dynamic_post_with_yml.py
+      - name: build deploy ghpage
+        uses: EdricChan03/action-build-deploy-ghpages@v2.5.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
 
